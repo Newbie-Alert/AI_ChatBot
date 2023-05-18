@@ -5,10 +5,7 @@ const form = document.querySelector('.chat-form');
 const chatAi = document.querySelector('.chat-ai');
 const chatMe = document.querySelector('.chat-me');
 const container = document.querySelector('.container');
-
 const KEY = API_KEY.key;
-
-
 
 chatBtn.addEventListener('click', function (e) {
   e.preventDefault();
