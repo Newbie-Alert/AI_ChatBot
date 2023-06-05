@@ -1,3 +1,3 @@
 const API_KEY = {
-  key: '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'
+  key: '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'
 }
